@@ -1,0 +1,15 @@
+D:\Education_materials\Test Task\RESTservice\RESTserviceConsoleApplication\bin\Debug\RESTserviceConsoleApplication.exe.config
+D:\Education_materials\Test Task\RESTservice\RESTserviceConsoleApplication\bin\Debug\RESTserviceConsoleApplication.exe
+D:\Education_materials\Test Task\RESTservice\RESTserviceConsoleApplication\bin\Debug\RESTserviceConsoleApplication.pdb
+D:\Education_materials\Test Task\RESTservice\RESTserviceConsoleApplication\bin\Debug\RestService.dll
+D:\Education_materials\Test Task\RESTservice\RESTserviceConsoleApplication\bin\Debug\DAO.dll
+D:\Education_materials\Test Task\RESTservice\RESTserviceConsoleApplication\bin\Debug\EntityFramework.dll
+D:\Education_materials\Test Task\RESTservice\RESTserviceConsoleApplication\bin\Debug\RestService.pdb
+D:\Education_materials\Test Task\RESTservice\RESTserviceConsoleApplication\bin\Debug\DAO.pdb
+D:\Education_materials\Test Task\RESTservice\RESTserviceConsoleApplication\bin\Debug\EntityFramework.xml
+D:\Education_materials\Test Task\RESTservice\RESTserviceConsoleApplication\obj\Debug\RESTserviceConsoleApplication.csprojResolveAssemblyReference.cache
+D:\Education_materials\Test Task\RESTservice\RESTserviceConsoleApplication\obj\Debug\RESTserviceConsoleApplication.exe
+D:\Education_materials\Test Task\RESTservice\RESTserviceConsoleApplication\obj\Debug\RESTserviceConsoleApplication.pdb
+D:\Education_materials\Test Task\WCF, EF, NUnit, SpecFlow\RESTservice\RESTserviceConsoleApplication\bin\Debug\RESTserviceConsoleApplication.exe.config
+D:\Education_materials\Test Task\WCF, EF, NUnit, SpecFlow\RESTservice\RESTserviceConsoleApplication\obj\Debug\RESTserviceConsoleApplication.exe
+D:\Education_materials\Test Task\WCF, EF, NUnit, SpecFlow\RESTservice\RESTserviceConsoleApplication\obj\Debug\RESTserviceConsoleApplication.pdb
